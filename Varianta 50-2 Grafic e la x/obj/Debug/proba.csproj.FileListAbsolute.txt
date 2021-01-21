@@ -1,0 +1,9 @@
+D:\Desk\proba\obj\Debug\proba.Form1.resources
+D:\Desk\proba\obj\Debug\proba.Properties.Resources.resources
+D:\Desk\proba\obj\Debug\proba.csproj.GenerateResource.Cache
+D:\Desk\proba\bin\Debug\proba.exe.config
+D:\Desk\proba\bin\Debug\proba.exe
+D:\Desk\proba\bin\Debug\proba.pdb
+D:\Desk\proba\obj\Debug\proba.exe
+D:\Desk\proba\obj\Debug\proba.pdb
+D:\Desk\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache
